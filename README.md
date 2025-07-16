@@ -13,11 +13,11 @@ This project showcases smooth animations, modern layout, and theme switching bet
 
 ## 📸 Screenshot
 
-![Special Design Screenshot](./images/screenshot-1.png) <!-- أضف صورة من المشروع لو متوفرة -->
-![Special Design Screenshot](./images/screenshot-2.png) <!-- أضف صورة من المشروع لو متوفرة -->
-![Special Design Screenshot](./images/screenshot-3.png) <!-- أضف صورة من المشروع لو متوفرة -->
-![Special Design Screenshot](./images/screenshot-4.png) <!-- أضف صورة من المشروع لو متوفرة -->
-![Special Design Screenshot](./images/screenshot-5.png) <!-- أضف صورة من المشروع لو متوفرة -->
+![Special Design Screenshot](./screenshot-1.png) <!-- أضف صورة من المشروع لو متوفرة -->
+![Special Design Screenshot](./screenshot-2.png) <!-- أضف صورة من المشروع لو متوفرة -->
+![Special Design Screenshot](./screenshot-3.png) <!-- أضف صورة من المشروع لو متوفرة -->
+![Special Design Screenshot](./screenshot-4.png) <!-- أضف صورة من المشروع لو متوفرة -->
+![Special Design Screenshot](./screenshot-5.png) <!-- أضف صورة من المشروع لو متوفرة -->
 
 ---
 
